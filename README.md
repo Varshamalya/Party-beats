@@ -1,2 +1,2 @@
-# Party-beats
-This is a Spotify clone made for College Mini-project.
+# SOUNDWAVES
+The project leverages modern web technologies to create an interactive and visually appealing platform for music enthusiasts.
